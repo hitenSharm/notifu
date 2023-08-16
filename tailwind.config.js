@@ -9,7 +9,9 @@ module.exports = {
         darkGrad: "#2D2537",
         darkLogo: "#2A2136",
         liveLogo:"#1B3C37",
-        greenVar:"#019C57"
+        greenVar:"#019C57",
+        textColor:"#01C36D",
+        priceText:"#EBECECB2"
       }
     },
   },
